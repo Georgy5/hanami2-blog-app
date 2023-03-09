@@ -1,6 +1,8 @@
 # Hanami2BlogApp
 
-This is an Hanami 2 application.
+This is an Introduction To Hanami 2.0
+
+https://www.honeybadger.io/blog/ruby-hanami-2/
 
 ## Local development
 
