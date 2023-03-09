@@ -4,6 +4,7 @@ log/
 !/.env*-*
 /spec/examples.txt
 
+.assets/*
 /node_modules
 /yarn-error.log
 yarn-debug.log*
