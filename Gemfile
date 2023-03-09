@@ -18,6 +18,8 @@ gem "i18n", "~> 1.8"
 
 # Development/test
 group :development, :test do
+  gem "guard-rack", "~> 2.2"
+  gem "pry-byebug"
   gem "dotenv"
   gem "pry"
 end
